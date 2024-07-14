@@ -1,6 +1,5 @@
 - Official account for BlockCoin
-- Created by @S4il and @BusyBird
-- Powered by Hera lol
+- Created by @S4IL
 
 <!---
 blockcoin-v3/blockcoin-v3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
